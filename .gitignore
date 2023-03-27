@@ -1,0 +1,29 @@
+### Folders
+target/
+test-output/
+testLogs/
+.idea/
+
+### Intellij ####
+*.iws
+*.iml
+*.ipr
+
+## Mac file
+.DS_store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.cmd
+*.classpath
+*.settings
+*.project
+*.mvn
+# user defined files/folder
+src/main/java/com/ak/selenium/util/UtilUnitTester.java
+src/main/resources/app_test.properties
