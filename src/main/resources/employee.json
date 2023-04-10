@@ -1,0 +1,10 @@
+{
+  "name": "kalia",
+  "id": "12",
+  "address": {
+    "city": "Norwalk",
+    "state" : "CT",
+    "country": "USA"
+  },
+  "two_ids" : ["DL","GC"]
+}
