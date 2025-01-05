@@ -7,4 +7,8 @@ public class FrameWorkConstant {
         return System.getProperty("user.dir")+"/src/main/resources/"+fileName;
     }
 
+    public static String getTestResourceFolderLocation(String fileName){
+        return System.getProperty("user.dir")+"/src/test/resources" + fileName;
+    }
+
 }
